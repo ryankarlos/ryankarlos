@@ -1,14 +1,35 @@
 
-## Hi! I'm Ryan.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://uk.linkedin.com/in/ryan-nazareth-75b40923">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rkn0386?lang=en-GB">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-I'm a Data Scientist in London and 
+<img src="https://komarev.com/ghpvc/?username=ryankarlos&style=flat-square&color=blue" alt=""/>
 
-Since GitHub so kindly provided this template...
+<h1>
+   Hi! I'm Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+I'm a Full Stack Data Scientist from London. My love for data began in 2016 and I feel so privileged to be part of this 
+community.
+
+### :man_technologist: About Me :
+
+- I love contributing to open source projects in my spare time and also experimenting with new techniques and tools.
 - 🔭 I’m currently working on: my [technical blogs](https://ryannazareth.com)
 - 🌱 I’m currently learning: All sorts of things...AWS,
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/ryan-nazareth-75b40923)
 
-## Past Projects
+### :hammer_and_wrench: Languages and Tools :
+
+## ### :writing_hand: Past Projects/Blog Posts :
 <!--START_SECTION:posts-->
 * [Using AWS Forecast for forecasting number of Wikipedia Page Hits for Peyton Manning](https://www.ryannazareth.com/AWS-ML-services/projects/forecast/)
 * [Detecting Fraud in Credit Card Transactions using AWS Fraud Detector](https://www.ryannazareth.com/AWS-ML-services/projects/fraud/)
@@ -24,7 +45,7 @@ Since GitHub so kindly provided this template...
 * [Tableau Visualisation looking at funding in the UK Grantmaking sector for the 360 Giving Challenge](https://public.tableau.com/app/profile/ryan.nazareth/viz/VisualisationfundingpatternsintheUKgrantmakingsector/Dashboard1?publish=yes)
 <!--END_SECTION:posts-->
 
-## Profile stats
+### :fire: My Profile Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankarlos&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
