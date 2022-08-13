@@ -45,8 +45,8 @@ community.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-## ### :writing_hand: Past Projects/Blog Posts :
-<!--START_SECTION:posts-->
+### :writing_hand: Past Projects and Blog Posts :
+
 * [Using AWS Forecast for forecasting number of Wikipedia Page Hits for Peyton Manning](https://www.ryannazareth.com/AWS-ML-services/projects/forecast/)
 * [Detecting Fraud in Credit Card Transactions using AWS Fraud Detector](https://www.ryannazareth.com/AWS-ML-services/projects/fraud/)
 * [Recommending movies using AWS Personalize](https://www.ryannazareth.com/AWS-ML-services/projects/personalize/)
@@ -59,7 +59,6 @@ community.
 * [D3js Visualisation submitted and shortlisted in the 360 Giving GrantNav Challenge](https://www.ryannazareth.com/GrantNav_Challenge2/)
 * [Interactive Global Health Visualisation tool using D3 and Highcharts js](https://www.ryannazareth.com/TweetsViz/)
 * [Tableau Visualisation looking at funding in the UK Grantmaking sector for the 360 Giving Challenge](https://public.tableau.com/app/profile/ryan.nazareth/viz/VisualisationfundingpatternsintheUKgrantmakingsector/Dashboard1?publish=yes)
-<!--END_SECTION:posts-->
 
 ### :fire: My Profile Stats :
 
