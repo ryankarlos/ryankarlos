@@ -2,16 +2,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://uk.linkedin.com/in/ryan-nazareth-75b40923">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/rkn0386?lang=en-GB">
+  <a href="https://twitter.com/rkn0386?lang=en-GB"  align="center">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ryankarlos&style=flat-square&color=blue" alt=""/>
+<p style="text-align:center;">
+    <img src="https://komarev.com/ghpvc/?username=ryankarlos&style=flat-square&color=blue" alt="profile-views"/>
+</p>
 
 <h1>
    Hi! I'm Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -25,7 +27,7 @@ community.
 - I love contributing to open source projects in my spare time and also experimenting with new techniques and tools.
 - 🔭 I’m currently working on: my [technical blogs](https://ryannazareth.com)
 - 🌱 I’m currently learning: All sorts of things...AWS,
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/ryan-nazareth-75b40923)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/ryan-nazareth-75b40923)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -61,4 +63,3 @@ community.
 
 [![Tensorflow Cert Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankarlos&repo=tensorflow-dev-certification-practice&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ryankarlos' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryankarlos)](https://github.com/anuraghazra/github-readme-stats)
