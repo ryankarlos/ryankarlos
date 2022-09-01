@@ -26,7 +26,16 @@ community.
 
 - I love contributing to open source projects in my spare time and also experimenting with new techniques and tools.
 - 🔭 I’m currently working on: my [technical blogs](https://ryannazareth.com)
-- 🌱 I’m currently skilling up on: AWS Certifications, Sagemaker, Graphs and Neo4j, Bayesian ML, Terraform, JavaScript
+- 🌱 I’m currently skilling up on:
+
+  <ul style="list-style: square"> 
+    <li> AWS Developer Associate Certification </li>  
+    <li> Personal Project on Sagemaker (something Computer Vision related with Tensorflow </li> 
+    <li> Neo4j Data Science Certification </li> 
+    <li> Bayesian ML (pymc3 and hyperopt) </li>
+    <li> Terraform and achieving the certification </li> 
+    <li> JavaScript (nodejs and re-learning D3js) </li> 
+   </ul>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
