@@ -44,21 +44,24 @@ community.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### :writing_hand: Past Projects and Blog Posts :
+### :writing_hand: A Sample of Past Projects and Blog Posts :
 
-* [Using AWS Forecast for forecasting number of Wikipedia Page Hits for Peyton Manning](https://www.ryannazareth.com/AWS-ML-services/projects/forecast/)
-* [Detecting Fraud in Credit Card Transactions using AWS Fraud Detector](https://www.ryannazareth.com/AWS-ML-services/projects/fraud/)
-* [Recommending movies using AWS Personalize](https://www.ryannazareth.com/AWS-ML-services/projects/personalize/)
-* [Using multiple AWS NLP services architecture for translating audio file](https://www.ryannazareth.com/AWS-ML-services/projects/nlp/)
-* [Classifying food images into correct categories using AWS Rekognition](https://www.ryannazareth.com/AWS-ML-services/projects/rekognition/)
-* [Blog on understanding AWS VPC terminology with practical examples](https://www.ryannazareth.com/AWS-VPC/)
-* [Scheduling RDS instances with AWS EventBridge](https://www.ryannazareth.com/AWS-ETL-Workflows/eventbridge-schedule-rds/)
-* [Streaming Tweets using AWS Kinesis](https://www.ryannazareth.com/AWS-ETL-Workflows/kinesis/)
-* [Running ETL jobs using AWS Glue](https://www.ryannazareth.com/AWS-ETL-Workflows/glue_etl/example1/)
-* [D3js Visualisation submitted and shortlisted in the 360 Giving GrantNav Challenge](https://www.ryannazareth.com/GrantNav_Challenge2/)
-* [Interactive Global Health Visualisation tool using D3 and Highcharts js](https://www.ryannazareth.com/TweetsViz/)
-* [Tableau Visualisation looking at funding in the UK Grantmaking sector for the 360 Giving Challenge](https://public.tableau.com/app/profile/ryan.nazareth/viz/VisualisationfundingpatternsintheUKgrantmakingsector/Dashboard1?publish=yes)
-
+* [Forecasting American Football Fever in AWS using Wikipedia Page Hits](https://www.ryannazareth.com/posts/aws-forecast/)
+* [Detecting Fraud in Credit Card Transactions using AWS Fraud Detector](https://www.ryannazareth.com/posts/aws-fraud/)
+* [Recommending movies using AWS Personalize](https://www.ryannazareth.com/posts/aws-personalize/)
+* [Unit Testing SQL using tSQLt](https://www.ryannazareth.com/posts/tsqlt-unit-test-blog/)
+* [Examples of deploying and hosting a Machine Learning Model with FastAPI](https://www.ryannazareth.com/posts/fast-api/)
+* [Using multiple AWS NLP services architecture for translating audio file](https://www.ryannazareth.com/posts/aws-nlp/)
+* [Classifying food images into correct categories using AWS Rekognition](https://www.ryannazareth.com/posts/aws-rekognition/)
+* [Understanding AWS VPC terminology with practical examples](https://www.ryannazareth.com/posts/aws-vpc/)
+* [Scheduling RDS instances with AWS EventBridge](https://www.ryannazareth.com/posts/aws-eventbridge/)
+* [Running a Spark notebook in EMR](https://www.ryannazareth.com/posts/spark-emr/)
+* [Streaming Tweets using AWS Kinesis](https://www.ryannazareth.com/posts/kinesis-firehose/)
+* [Spatial Analytics to understand impact of socio-economic factors on wellbeing in citizens across London](https://www.ryannazareth.com/posts/gwr-R/)
+* [Orchestrating ETL workflow using AWS Step Function](https://www.ryannazareth.com/posts/step-functions/)
+* [D3js Visualisation submitted and shortlisted in the 360 Giving GrantNav Challenge](https://www.ryannazareth.com/posts/360-giving-challenge-2/)
+* [Twitter Analytics for Global Health](https://www.ryannazareth.com/posts/tweets-snakebite/)
+* [Tableau Visualisation looking at funding in the UK Grantmaking sector for the 360 Giving Challenge](https://www.ryannazareth.com/posts/360-giving-challenge-1/)
 
 ### :fire: My Profile Stats :
 
