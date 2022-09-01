@@ -2,13 +2,26 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
 </div>
+<h2  align="center">&#x1F4EC; Reach me on</h2>
 <div id="badges"  align="center">
   <a href="https://uk.linkedin.com/in/ryan-nazareth-75b40923">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img 
+    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
+    width = 35
+    height = 35   
+ />
+</a>
   </a>
   <a href="https://twitter.com/rkn0386?lang=en-GB"  align="center">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:ryankarlos@gmail.com?subject=Hello%20Ileri,%20From%20Github" align="center">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    width = 35
+    height = 35   
+ />
+</a>
 </div>
 
 <div id="views" align="center">
@@ -88,24 +101,3 @@ community.
 
 [![Tensorflow Cert Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankarlos&repo=tensorflow-dev-certification-practice&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h2  align="center">&#x1F4EC; Reach me on</h2>
-
-<p align = "center">  
-<a href="mailto:ryankarlos@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://uk.linkedin.com/in/ryan-nazareth?trk=profile-badge">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
-    width = 35
-    height = 35   
- />
-</a>
-&nbsp;&nbsp
-</p>
