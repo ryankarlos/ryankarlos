@@ -26,8 +26,7 @@ community.
 
 - I love contributing to open source projects in my spare time and also experimenting with new techniques and tools.
 - 🔭 I’m currently working on: my [technical blogs](https://ryannazareth.com)
-- 🌱 I’m currently learning: All sorts of things...AWS,
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/ryan-nazareth-75b40923)
+- 🌱 I’m currently skilling up on: AWS Certifications, Sagemaker, Graphs and Neo4j, Bayesian ML, Terraform, JavaScript
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,6 +59,7 @@ community.
 * [Interactive Global Health Visualisation tool using D3 and Highcharts js](https://www.ryannazareth.com/TweetsViz/)
 * [Tableau Visualisation looking at funding in the UK Grantmaking sector for the 360 Giving Challenge](https://public.tableau.com/app/profile/ryan.nazareth/viz/VisualisationfundingpatternsintheUKgrantmakingsector/Dashboard1?publish=yes)
 
+
 ### :fire: My Profile Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankarlos&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
@@ -76,3 +76,24 @@ community.
 
 [![Tensorflow Cert Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankarlos&repo=tensorflow-dev-certification-practice&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h2  align="center">&#x1F4EC; Reach me on</h2>
+
+<p align = "center">  
+<a href="mailto:ryankarlos@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://uk.linkedin.com/in/ryan-nazareth?trk=profile-badge">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&nbsp;&nbsp
+</p>
