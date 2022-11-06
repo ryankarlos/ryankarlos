@@ -28,12 +28,14 @@
     <img src="https://komarev.com/ghpvc/?username=ryankarlos&style=flat-square&color=blue" alt="profile-views"/>
 </div>
 
+
 <h1 style="text-align:center">
    Hi! I'm Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 I'm a Full Stack Data Scientist from London. My love for data began in 2016 and I feel so privileged to be part of this 
 community.
+
 
 ### :man_technologist: About Me :
 
@@ -49,6 +51,13 @@ community.
     <li> Terraform and achieving the certification </li> 
     <li> JavaScript (nodejs and re-learning D3js) </li> 
    </ul>
+   
+   
+### :desktop_computer: Hacktoberfest Badges :
+
+<br>
+
+[![@ryankarlos's Holopin board](https://holopin.me/ryankarlos)](https://holopin.io/@ryankarlos)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -65,6 +74,7 @@ community.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
 
 ### :writing_hand: A Sample of Past Projects and Blog Posts :
 
