@@ -33,7 +33,7 @@
    Hi! I'm Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm a Full Stack Data Scientist from London. My love for data began in 2016 and I feel so privileged to be part of this 
+I'm a MLops Engineer from London. My love for data began in 2016 and I feel so privileged to be part of this 
 community.
 
 
